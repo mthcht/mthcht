@@ -1,9 +1,15 @@
 <h1 align="center"> :mag_right:</h1>
 <h3 align="center">Detection engineer posting stuffs i made for blue team security purposes</h3>
 
-- 📝 Purple Teaming, Threat Hunting, Offensive scripts, Detections Lists, Detection tips, Event Logs and others ...  
+- :vampire: Purple Teaming
+- :gun: Threat Hunting
+- :supervillain:  Offensive scripts
+- :newspaper: Detections Lists
+- :feet: Detection tips
+- :file_cabinet: Event Logs
+- :package: Others ...  
 
-- 📫 You can reach me on **[twitter](https://twitter.com/mthcht)**
+- :love_letter: You can reach me on **[twitter](https://twitter.com/mthcht)**
 
 <p align="center">
   <img src="https://github.com/mthcht/mthcht/blob/main/img/img.gif">
