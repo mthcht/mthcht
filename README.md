@@ -12,6 +12,6 @@
 - :love_letter: You can reach me on **[twitter](https://twitter.com/mthcht)**
 
 <p align="center">
-  <img src="https://github.com/mthcht/mthcht/blob/main/img/img.gif">
+  <img src="https://github.com/mthcht/mthcht/blob/main/img/qbuVlPm.gif">
   </p>
 
