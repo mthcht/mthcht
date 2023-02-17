@@ -3,13 +3,7 @@
 <p align="center">
   <img src="https://github.com/mthcht/mthcht/blob/main/img/qbuVlPm.gif">
 </p>
-- :vampire: Purple Teaming
-- :gun: Threat Hunting
-- :supervillain:  Offensive scripts
-- :newspaper: Detections Lists
-- :feet: Detection tips
-- :file_cabinet: Event Logs
-- :package: Others ...  
+:vampire: Purple Teaming - :gun: Threat Hunting - :supervillain:  Offensive scripts - :newspaper: Detections Lists - :feet: Detection tips - :file_cabinet: Event Logs - :package: Others ...  
 
-- :love_letter: You can reach me on **[twitter](https://twitter.com/mthcht)**
+- :love_letter: Reach me on **[twitter](https://twitter.com/mthcht)**
 
