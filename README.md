@@ -1,4 +1,3 @@
-<h1 align="center"> :mag_right:</h1>
 <h3 align="center">Detection engineer posting stuffs i made for blue team security purposes</h3>
 <p align="center">
   <img src="https://github.com/mthcht/mthcht/blob/main/img/qbuVlPm.gif"  width="700" height="300">
