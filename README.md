@@ -1,4 +1,4 @@
-<h3 align="center">Detection engineer posting stuffs i made for blue team security purposes</h3>
+<h3 align="center">Detection Engineer dedicated to creating and sharing resources designed to augment blue team security operations</h3>
 <p align="center">
   <img src="https://github.com/mthcht/mthcht/blob/main/img/qbuVlPm.gif"  width="700" height="300">
 </p>
