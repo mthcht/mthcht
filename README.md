@@ -1,13 +1,13 @@
-Hi there, Im mthcht 👋
+Hi there 👋
 
-🔭 Threat Hunting
+  - 🔭 Threat Hunting
 
-:feet: Detection tips
+  - :feet: Detection tips
 
-:newspaper: Detection Lists
+  - :newspaper: Detection Lists
 
-:vampire: Purple Teaming
+  - :vampire: Purple Teaming
 
-:file_cabinet: Event Logs
+  - :file_cabinet: Event Logs
 
 📫 Reach me on twitter: https://twitter.com/mthcht
