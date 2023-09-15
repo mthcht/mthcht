@@ -4,14 +4,10 @@ Hi there, Im mthcht 👋
 
 :feet: Detection tips
 
-:newspaper: Detections Lists
+:newspaper: Detection Lists
 
 :vampire: Purple Teaming
 
-:supervillain:  Offensive scripts
-
 :file_cabinet: Event Logs
-
-👯 I’m looking to collaborate on anything i find interesting
 
 📫 Reach me on twitter: https://twitter.com/mthcht
