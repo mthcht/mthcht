@@ -5,5 +5,3 @@ Hi there 👋
   - :newspaper: Detection Lists
   - :vampire: Purple Teaming
   - :file_cabinet: Event Logs
-
-📫 Reach me on twitter: https://twitter.com/mthcht
