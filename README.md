@@ -42,6 +42,3 @@
 
 </details>
 
-
-## 📈 GitHub Stats
-![mthcht's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthcht&show_icons=true&theme=radical)
