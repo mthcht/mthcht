@@ -15,7 +15,6 @@
 - 📖 [Threat Intelligence Reports Database](https://github.com/mthcht/ThreatIntel-Reports)
 - 📂 [**Threat Hunting artifacts**](https://github.com/mthcht/ThreatHunting-Keywords)
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
-  - 🔧 [Threat Hunting sigma rules ](https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules)
     
 ## 🧠 Blog Posts
 
