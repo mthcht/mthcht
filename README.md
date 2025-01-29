@@ -1,4 +1,4 @@
-# Hi there, I'm mthcht! 👋
+![image](https://github.com/user-attachments/assets/dbe28f22-f137-42a1-bd03-9f1288a81d2e)# Hi there, I'm mthcht! 👋
 
 ## 🕵️‍♂️ What I Offer
 
@@ -12,10 +12,11 @@
 ## 🚀 Featured Projects
 - 📜 [My Detection Lists for SOC/DFIR](https://github.com/mthcht/awesome-lists/tree/main/Lists)
 - 🧪 [PurpleTeam scripts and notes](https://github.com/mthcht/Purpleteam)
+- 👁️ [LOLC2](https://github.com/lolc2/lolc2.github.io)
 - 📖 [Threat Intelligence Reports Database](https://github.com/mthcht/ThreatIntel-Reports)
 - 📂 [**Threat Hunting artifacts**](https://github.com/mthcht/ThreatHunting-Keywords)
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
-    
+
 ## 🧠 Blog Posts
 
 <details>
