@@ -13,6 +13,7 @@
 - 📜 [My Detection Lists for SOC/DFIR](https://github.com/mthcht/awesome-lists/tree/main/Lists)
 - 🧪 [PurpleTeam scripts and notes](https://github.com/mthcht/Purpleteam)
 - 👁️ [LOLC2](https://github.com/lolc2/lolc2.github.io)
+- 🆔 [BADGUIDs](https://github.com/BADGUIDS)
 - 📖 [Threat Intelligence Reports Database](https://github.com/mthcht/ThreatIntel-Reports)
 - 📂 [**Threat Hunting artifacts**](https://github.com/mthcht/ThreatHunting-Keywords)
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
