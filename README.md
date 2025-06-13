@@ -1,4 +1,4 @@
-# Hi there, I'm mthcht! 👋
+# Hi there 👋
 
 ## 🕵️‍♂️ What I Offer
 
