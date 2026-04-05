@@ -11,6 +11,8 @@
 - 🧩 [EXTSentry](https://github.com/ExtSentry/ExtSentry.github.io)
 - 🧅 [TOR archive](https://tor-archive.github.io)
 - 🕳️ [SINKHOLED](https://github.com/sinkholed/sinkholed.github.io)
+- 🛡️ Browser Extensions:
+  - [TraceGlyph](https://github.com/mthcht/traceglyph)
 - 📖 [Threat Intelligence Reports Database](https://github.com/mthcht/ThreatIntel-Reports)
 - 🐾 [**Threat Hunting artifacts**](https://github.com/mthcht/ThreatHunting-Keywords)
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
