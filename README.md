@@ -16,6 +16,7 @@
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
 - 🛡️ Browser Extensions
   - [TraceGlyph](https://github.com/mthcht/traceglyph)
+  - [Masquerade-Spoofer](https://github.com/mthcht/Masquerade-Spoofer)
 
 ## 🧠 Blog Posts
 
