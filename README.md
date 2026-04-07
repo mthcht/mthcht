@@ -9,14 +9,16 @@
 - 🆔 [BADGUIDs](https://github.com/BADGUIDS)
 - 💠 [VSXSentry](https://github.com/vsxsentry/vsxsentry.github.io)
 - 🧩 [EXTSentry](https://github.com/ExtSentry/ExtSentry.github.io)
+  - 🧩[ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
 - 🧅 [TOR archive](https://tor-archive.github.io)
 - 🕳️ [SINKHOLED](https://github.com/sinkholed/sinkholed.github.io)
 - 📖 [Threat Intelligence Reports Database](https://github.com/mthcht/ThreatIntel-Reports)
 - 🐾 [**Threat Hunting artifacts**](https://github.com/mthcht/ThreatHunting-Keywords)
   - 🛠️ [Threat Hunting yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
 - 🛡️ Browser Extensions
-  - [TraceGlyph](https://github.com/mthcht/traceglyph)
-  - [Masquerade-Spoofer](https://github.com/mthcht/Masquerade-Spoofer)
+  - 🧩 [TraceGlyph](https://github.com/mthcht/traceglyph)
+  - 🧩 [Masquerade-Spoofer](https://github.com/mthcht/Masquerade-Spoofer)
+  - 🧩[ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
 
 ## 🧠 Blog Posts
 
