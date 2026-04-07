@@ -18,7 +18,7 @@
 - 🛡️ Browser Extensions
   - 🧩 [TraceGlyph](https://github.com/mthcht/traceglyph)
   - 🧩 [Masquerade-Spoofer](https://github.com/mthcht/Masquerade-Spoofer)
-  - 🧩[ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
+  - 🧩 [ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
 
 ## 🧠 Blog Posts
 
