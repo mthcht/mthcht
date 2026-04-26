@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🚀 My Projects
+## My Projects
 - 📜 [My Detection Lists for SOC/DFIR](https://github.com/mthcht/awesome-lists/tree/main/Lists)
 - 🧪 [PurpleTeam scripts and notes](https://github.com/mthcht/Purpleteam)
 - 👁️ [LOLC2](https://github.com/lolc2/lolc2.github.io)
