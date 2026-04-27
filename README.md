@@ -23,6 +23,7 @@
   - 🧩 [ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
   - 🧩 [threatcheck](https://github.com/mthcht/threatcheck)
   - 🧩 [nehboro](https://github.com/Nehboro/nehboro)
+  - 🧩 [quick-notes](https://github.com/quicknotes/quick-notes)
 
 ## 🧠 Blog Posts
 
