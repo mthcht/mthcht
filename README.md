@@ -10,6 +10,7 @@
 - 💠 [VSXSentry](https://github.com/vsxsentry/vsxsentry.github.io)
 - 🧩 [EXTSentry](https://github.com/ExtSentry/ExtSentry.github.io)
   - 🧩[ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
+- 🌐 [OAuthSentry](https://oauthsentry.github.io/)
 - 🐼 [Nehboro](https://nehboro.github.io/)
   - 🧩 [nehboro](https://github.com/Nehboro/nehboro)
 - 🧅 [TOR archive](https://tor-archive.github.io)
