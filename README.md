@@ -8,6 +8,7 @@
 - ☁️ [LOLfSaas](https://github.com/lolfsaas/lolfsaas.github.io)
 - 🆔 [BADGUIDs](https://github.com/BADGUIDS)
 - 💠 [VSXSentry](https://github.com/vsxsentry/vsxsentry.github.io)
+  -  💠 [VSXSentry-Guard](https://github.com/vsxsentry/vsxsentry-guard)
 - 🧩 [EXTSentry](https://github.com/ExtSentry/ExtSentry.github.io)
   - 🧩[ExtSentry-Guard](https://github.com/ExtSentry/ExtSentry-Guard)
 - 🔐 [OAuthSentry](https://oauthsentry.github.io/)
