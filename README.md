@@ -26,7 +26,8 @@
   - 🧩 [threatcheck](https://github.com/mthcht/threatcheck)
   - 🧩 [nehboro](https://github.com/Nehboro/nehboro)
   - 🧩 [quick-notes](https://github.com/quicknotes/quick-notes)
-  - 🧩 [chromapicker](https://github.com/mthcht/chromapicker) 
+  - 🧩 [chromapicker](https://github.com/mthcht/chromapicker)
+  - 🧩 [TabZEN](https://github.com/mthcht/tabzen)
 
 ## 🧠 Blog Posts
 
