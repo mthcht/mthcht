@@ -27,6 +27,7 @@
   - 🧩 [nehboro](https://github.com/Nehboro/nehboro)
   - 🧩 [quick-notes](https://github.com/quicknotes/quick-notes)
   - 🧩 [chromapicker](https://github.com/mthcht/chromapicker)
+  - 🧩 [Hakr](https://github.com/mthcht/hakr)
   - 🧩 [TabZEN](https://github.com/mthcht/tabzen)
 
 ## 🧠 Blog Posts
