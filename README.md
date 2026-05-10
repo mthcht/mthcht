@@ -29,6 +29,7 @@
   - 🧩 [chromapicker](https://github.com/mthcht/chromapicker)
   - 🧩 [Hakr](https://github.com/mthcht/hakr)
   - 🧩 [TabZEN](https://github.com/mthcht/tabzen)
+  - 🧩 [Github Web IDE](https://github.com/mthcht/github-web-ide)
 
 ## 🧠 Blog Posts
 
