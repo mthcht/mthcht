@@ -30,6 +30,7 @@
   - 🧩 [Hakr](https://github.com/mthcht/hakr)
   - 🧩 [TabZEN](https://github.com/mthcht/tabzen)
   - 🧩 [Github Web IDE](https://github.com/mthcht/github-web-ide)
+  - 🧩 [AuthForge](https://github.com/mthcht/AuthForge)
 
 ## 🧠 Blog Posts
 
